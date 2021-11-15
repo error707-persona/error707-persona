@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @error707-persona
 - 👀 I’m interested in ...
-building data science and machine
+Web developement data science and machine learning
+-Flask, django
+
 applying my knowlege for solving different problems is adventurous for me!
 - 🌱 I’m currently learning ...
 the same fields mentioned above
-- 💞️ I’m looking to collaborate with people knowlegible in blockchain ...
 
 - 📫 How to reach me ...
 here on git :)
