@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Areesha Sayed</h1>
-<h3 align="center">Software developer-undergraduate BE</h3>
+<h3 align="center">Software developer-undergraduate BE, Coding is my Cardio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error707-persona&label=Profile%20views&color=0e75b6&style=flat" alt="error707-persona" /> </p>
 
