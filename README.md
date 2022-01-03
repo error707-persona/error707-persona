@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=error707-persona&show_icons=true&locale=en&layout=compact" alt="error707-persona" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=error707-persona&show_icons=true&locale=en" alt="error707-persona" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=error707-persona&show_icons=true&locale=en" alt="error707-persona" /></p>
