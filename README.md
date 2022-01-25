@@ -15,6 +15,7 @@
 - 📫 How to reach me **areeshasayed786@gmail.com**
 
 - ⚡ Fun fact **i kind of wanna learn everything but there's so much to catch up on so i end up prioritizing.**
+- My PortFolio - https://areesha-sayed-portfolio.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
