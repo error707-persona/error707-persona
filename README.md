@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on which is still underdevelopment. **Crypton** https://crypton-786.netlify.app/
 
-- 🌱 I’m currently learning **reactjs, django, and sometimes flutter**
+- 🌱 I’m currently learning **reactjs, django.**
 
 - 🤝 I’m looking for help with **signature verification system using siamese network**
 
