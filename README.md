@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error707-persona&label=Profile%20views&color=0e75b6&style=flat" alt="error707-persona" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error707-persona" alt="error707-persona" /></a> </p>
 
 - 🔭 I’m currently working on which is still underdevelopment. **Crypton** https://crypton-786.netlify.app/
 
