@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-<img src="https://media-exp2.licdn.com/dms/image/C4D16AQER4KMz7k8tqA/profile-displaybackgroundimage-shrink_200_800/0/1656779383085?e=1661990400&v=beta&t=wZdqqGXZsq8HS-O8JuvkDPRzqykIVwsZNmA_jt3irQs">
+<img src="https://media-exp2.licdn.com/dms/image/C4D16AQFMECatbbYzrg/profile-displaybackgroundimage-shrink_200_800/0/1656779624896?e=1661990400&v=beta&t=aa-4rxULeC8l22-KiTPhGgHun2I_V6m_WVC157HsKws">
 <h1 align="center">Hi 👋, I'm Areesha Sayed</h1>
 <h3 align="center">Software developer-undergraduate BE, Coding is my Cardio</h3>
 
