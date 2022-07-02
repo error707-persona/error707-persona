@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="20px" height="20px" href="https://www.linkedin.com/in/areesha-sayed/">
+  <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" width="50px" height="50px" href="https://www.linkedin.com/in/areesha-sayed/">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
