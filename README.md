@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **areeshasayed09@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11GM2Abgm6CCXMxl9XuPrkPfwY9eXITdF/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
