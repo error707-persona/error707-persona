@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Areesha Sayed</h1>
-<h3 align="center">ping me on mail for collaborations</h3>
+
 
 - 🔭 I’m currently working on **My final year project**
 
