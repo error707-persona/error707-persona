@@ -12,8 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/areeshasayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeshasayed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/areeshasayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="areeshasayed" height="30" width="40" /></a>
+<a href="https://
+         in.com/in/areeshasayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeshasayed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/areeshasayed09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="areeshasayed" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/areeshasayed09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="areeshasayed09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/error-707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="error-707" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/areeshasayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="areeshasayed" height="30" width="40" /></a>
