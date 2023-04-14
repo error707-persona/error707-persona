@@ -10,7 +10,7 @@ Currently, I'm working as a Frontend developer with internship experiences to wo
 - 🌱 I’m currently learning **solidity**
 
 - 📫 How to reach me **areeshasayed09@gmail.com**
-- Show some ❤️ and ⭐
+- Show some ❤️ and ⭐ my <a href="https://github.com/error707-persona?tab=repositories">respositories</a>
 
 
 
