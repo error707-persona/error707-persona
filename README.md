@@ -3,7 +3,7 @@
 
 A student who is interested in Software Development. Preferred pronouns: She/Her/Hers 👩🏻
 
-Currently, I'm working as a Frontend developer with internship experiences to work with industry experts in Frontend and Back-End Development 👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ React, MYSQL, GCP. I have strong knowledge in Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design.
+Currently, I'm working as a Frontend developer with internship experiences to work with industry experts in Frontend and Back-End Development 👩🏻‍💻 . I have worked on projects that provides a scalable, performant, consistent and rich experience to users. I primarily deal with technologies like ⚡ React, MYSQL, Firebase, Mongodb React Native. I have strong knowledge in Data structures and algorithms using C++, Computer networks, operating systems, DBMS , System Design.
 
 - 🔭 I’m currently working on **My final year project**
 
