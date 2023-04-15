@@ -14,7 +14,7 @@ Currently, I'm working as a Frontend developer with internship experiences to wo
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://
          in.com/in/areeshasayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areeshasayed" height="30" width="40" /></a>
